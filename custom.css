@@ -1,0 +1,9 @@
+body {margin:0;padding:1em 7em 7em 7em;background-image:url('images/back.png');background-size: cover;}
+.clearfix {display:block;height:20px;}
+.profile-inner-2 {background:#fff;padding:2em 4em 4em 4em ;}
+.award_section {position: absolute;bottom: 0px;left: 22px;}
+img.gray-scale:hover {filter: grayscale(100%);cursor: pointer;} 
+.custom_strong {font-weight:bold;}
+ul.page-button-wrapper {float: right;}
+li.page-button-inner {list-style: none;display: inline-block;margin-right:5px;}
+tr:hover {background:#f9f9f9;}
