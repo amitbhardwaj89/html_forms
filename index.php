@@ -1,9 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<title>
-SIEC EMPLOYEE OF THE MONTH
-</title>
+<title>CMS</title>
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <script src="js/jquery.js"></script>
